@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "DispatchMap\\": "App"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "^0.4",
+    "monolog/monolog": "^1.0"
+  }
+}
